@@ -16,7 +16,7 @@ D=strftime("%Y-%m-%d-%H.%M.%S", gmtime())
 
 AUTH_Encoded='<Go to https://wigle.net/account click "Show my token" and include the value from "Encoded for use:" here>'
 # example
-#AUTH_Encoded='SGFzaHRhZyBjaGlsbHdhdmUga2l0c2NoLCB3YXlmYXJlcnMgcG9rIHBvayBjYXJkaWdhbiBsdW1iZXJzZXh1YWwgaXMK'
+#AUTH_Encoded='QUlEZmIxMWJiYWI0NDhhMWE0MDJmMmU3ZTE2MTgyM2QyYjY6NDQxYTJhMDdkNzQzODQ0MTZjYzgxNThiZDE3NTUzMTg='
 
 # Define copy function
 
